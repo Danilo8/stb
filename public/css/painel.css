@@ -1,0 +1,49 @@
+.navbar-brand {
+    margin-left: 2%;
+}
+#logo-text {
+    font-family: 'Copse', sans-serif;
+    font-size: 30px;
+    color: white;
+    vertical-align: bottom;
+}
+.navbar-text a span {
+    font-size: 20px;
+}
+.navbar-nav .nav-item .nav-link {
+    color: #fff;
+}
+.nav-link {
+    color: #fff;
+    border-bottom: 2px solid transparent;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-left: 2px;
+    padding-right: 2px;
+    padding-top: 15px; 
+    padding-bottom: 15px; 
+}
+.nav-item:hover {
+    color: #fff;
+    background-color: #278dfa;
+}
+#logout {
+    color: #FF0000;
+}
+body {
+    background-color: #f1f2f7;
+}
+.card {
+    -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.10);
+    -moz-box-shadow: 0 1px 2px rgba(0,0,0,.10);
+    box-shadow: 0 1px 2px rgba(0,0,0,.10);
+    border: 1px solid rgba(0,0,0,.2); 
+    border-radius: 0;
+    color: black;
+}
+.card-header {
+    font-size: 18px;
+}
+.card-footer{
+    background-color: #fff;
+}

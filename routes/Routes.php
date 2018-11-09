@@ -106,6 +106,6 @@ class Routes
                 $this->File = 'error/404';
                 $this->Link = null;
             }            
-        }        
+        } 
     }
 }
